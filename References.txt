@@ -1,0 +1,60 @@
+
+Origin of mask https://www.clinicaloncology.com/COVID-19/Article/03-21/Uncovering-the-History-of-Medical-Face-Masks-In-the-Time-of-COVID-19/62804#:~:text=of%20face%20masks.-,Dr.,hospitals%20and%20surgery%20(Figure).
+
+https://analyticsindiamag.com/why-googles-mobilenetv2-is-a-revolutionary-next-gen-on-device-computer-vision-network/#:~:text=The%20MobileNetV2%20models%20are%20much,on%20a%20Google%20pixel%20phone.
+
+https://www.mathworks.com/help/deeplearning/ref/mobilenetv2.html
+
+ Real-Time Implementation of AI-Based Face Mask Detection ...Untitled.https://www.hindawi.com/journals/sp/2021/8340779
+
+Clinical Oncology News https://www.clinicaloncology.com/Article/PrintArticle?articleID=62804
+
+Uncovering the History of Medical Face Masks In the Time of COVID-19 https://www.ormanagement.net/COVID-19/Article/03-21/Uncovering-the-History-of-Medical-Face-Masks-In-the-Time-of-COVID-19/63447
+
+What Is Deep Learning? - MATLAB & Simulink - MathWorks https://www.mathworks.com/discovery/deep-learning.html
+
+3 Things You Need to Know About Deep Learning - Medium https://medium.com/mathworks/3-things-you-need-to-know-about-deep-learning-342b71ba118
+
+Introduction — Machine Learning 101 documentation- https://machinelearning101.readthedocs.io/en/latest/_pages/01_introduction.html 
+
+List Of Top 5 Algorithms In Computer Science And Machine Learning - https://www.nytoday.org/list-of-top-5-algorithms-in-computer-science-and-machine-learning
+
+insightsA guide to the types of machine learning algorithms by Katrina Wakefield | SAS UK - https://www.sas.com/en_gb/insights/articles/analytics/machine-learning-algorithms.html
+
+___________________________________________________________________________________
+ai-med.io › ac-observations › is-deep-learningIs deep learning supervised or unsupervised? - AIMed- https://ai-med.io/ac-observations/is-deep-learning-supervised-or-unsupervised
+
+Detection with Deep Learning: The Definitive Guide - https://tryolabs.com/blog/2017/08/30/object-detection-an-overview-in-the-age-of-deep-learning
+
+Classifying images using Keras MobileNet and TensorFlow.js - https://gogul.dev/software/mobile-net-tensorflow-js
+
+Image Classification with client-side neural network using ... - https://medium.com/agara-labs/image-classification-with-the-client-side-neural-network-using-tensorflow-js-8f94d3dc7c5c
+
+why-googles-mobilenetv2-isWhy Google’s MobileNetV2 Is A Revolutionary Next Gen On ... - https://analyticsindiamag.com/why-googles-mobilenetv2-is-a-revolutionary-next-gen-on-device-computer-vision-network
+
+docs.w3cub.com › tensorflow~2 › kerastf.keras.applications.mobilenet_v2 - TensorFlow 2.3 - W3cub- https://docs.w3cub.com/tensorflow~2.3/keras/applications/mobilenet_v2.html
+
+__________________________________________________________________________
+
+
+https://www.bmc.com/blogs/machine-learning-architecture/
+
+Convolutional Neutral Networks(CNN) with Deep Learning https://www.happiestminds.com/insights/convolutional-neural-networks-cnns
+
+MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications, Howard AG, Zhu M, Chen B, Kalenichenko D, Wang W, Weyand T, Andreetto M, Adam H, arXiv:1704.04861, 2017.
+
+MobileNetV2: Inverted Residuals and Linear Bottlenecks, Sandler M, Howard A, Zhu M, Zhmoginov A, Chen LC. arXiv preprint. arXiv:1801.04381, 2018.
+
+Rethinking Atrous Convolution for Semantic Image Segmentation, Chen LC, Papandreou G, Schroff F, Adam H. arXiv:1706.05587, 2017.
+
+Speed/accuracy trade-offs for modern convolutional object detectors, Huang J, Rathod V, Sun C, Zhu M, Korattikara A, Fathi A, Fischer I, Wojna Z, Song Y, Guadarrama S, Murphy K, CVPR 2017.
+
+Deep Residual Learning for Image Recognition, He, Kaiming, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. arXiv:1512.03385,2015
+
+Face mask recognition system using CNN model - PMC - NCBI https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8656214
+
+Face Mask Detection System Using Deep Learning - ProQuest https://search.proquest.com/openview/fbc09cba451d2d6607be72c9f3f7f44f/1?pq-origsite=gscholar
+
+
+
+
